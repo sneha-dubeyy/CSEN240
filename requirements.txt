@@ -1,0 +1,31 @@
+# Core Libraries
+numpy
+scipy
+pandas
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning
+tensorflow
+torch
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Natural Language Processing (NLP)
+nltk
+spacy
+transformers
+
+# Image Processing
+opencv-python
+Pillow
+
+# Jupyter Notebook
+jupyter
+
+# Optimization and Acceleration
+joblib
